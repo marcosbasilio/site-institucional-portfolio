@@ -2,6 +2,8 @@
 
 Versão pública e fictícia inspirada no trabalho de criação de um site institucional real. Ela **não é o site de produção**: nomes, textos, imagens, contatos e integrações do cliente foram substituídos. O repositório original permanece privado e ligado ao seu próprio fluxo de implantação.
 
+![Prévia da página inicial demonstrativa](assets/preview.png)
+
 ## O que este projeto demonstra
 
 - Estrutura semântica com áreas de serviços, método, conteúdo e contato.
