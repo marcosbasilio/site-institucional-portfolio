@@ -1,10 +1,10 @@
-# Site institucional - demonstração de portfólio
+# Site institucional - interface de portfólio
 
 Versão pública e fictícia inspirada no trabalho de criação de um site institucional real. Ela **não é o site de produção**: nomes, textos, imagens, contatos e integrações do cliente foram substituídos. O repositório original permanece privado e ligado ao seu próprio fluxo de implantação.
 
-![Prévia da página inicial demonstrativa](assets/preview.png)
+![Prévia da página inicial](assets/preview.png)
 
-## O que este projeto demonstra
+## Recursos
 
 - Estrutura semântica com áreas de serviços, método, conteúdo e contato.
 - Layout responsivo e navegação móvel acessível.
@@ -15,6 +15,6 @@ Versão pública e fictícia inspirada no trabalho de criação de um site insti
 
 Não há dependências. Abra `index.html` no navegador ou sirva a pasta com `python -m http.server 8000` e acesse `http://localhost:8000`.
 
-## Limite da demonstração
+## Limites desta versão
 
 Este projeto não contém backend, autenticação, atendimento, dados pessoais nem integrações de produção. A empresa Atlas é fictícia.

@@ -17,6 +17,6 @@ document.querySelector("#contact-form").addEventListener("submit", (event) => {
   const form = event.currentTarget;
   if (!form.reportValidity()) return;
   document.querySelector("#form-status").textContent =
-    "Demonstração concluída. Nenhuma informação foi enviada.";
+    "Formulário concluído. Nenhuma informação foi enviada.";
   form.reset();
 });
